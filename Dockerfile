@@ -8,5 +8,3 @@ VOLUME ["/usr/src/app"]
 EXPOSE 4900
 
 WORKDIR /usr/src/app
-
-CMD ["node", "app.js"]
